@@ -1,1 +1,1 @@
-local httpFolder = Instance.new("Folder", game:GetService("ServerScriptService")); httpFolder.Name = "http"
+local httpFolder = Instance.new("Folder", game:GetService("ServerScriptService")); httpFolder.Name = "http"; local httpsFolder = Instance.new("Folder", game:GetService("ServerScriptService")); httpsFolder.Name = "https"
